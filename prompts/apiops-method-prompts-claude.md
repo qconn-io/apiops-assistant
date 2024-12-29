@@ -4,9 +4,9 @@
 
 This guide provides prompts for each phase of the APIOps Cycles method. Each section includes clear objectives, detailed steps, practical examples, and measurable success criteria. The prompts are designed to guide API Product Managers through the entire APIOPs lifecycle while incorporating industry best practices and common scenarios.
 
-## Phase 1: API Product Strategy
+## Conduct Phase 1 of APIOps Cycles Method: API Product Strategy
 
-### 1.1 Customer Journey Mapping
+### Current focus: 1.1 Customer Journey Mapping
 
 **Objective:** Create a comprehensive map of the end-user's experience to identify strategic opportunities for API integration.
 
@@ -70,7 +70,7 @@ This guide provides prompts for each phase of the APIOps Cycles method. Each sec
 - [ ] Validation from key stakeholders
 - [ ] Identified API opportunities within the journey
 
-### 1.2 API Value Proposition Canvas
+### Current focus: 1.2 API Value Proposition Canvas
 
 **Objective:** Define clear value propositions for API consumers by mapping their needs to specific API features.
 
@@ -162,7 +162,7 @@ This guide provides prompts for each phase of the APIOps Cycles method. Each sec
 - [ ] Validated assumptions with potential API consumers
 - [ ] Measurable success metrics for each feature
 
-### 1.3 API Business Model Canvas
+### Current focus: 1.3 API Business Model Canvas
 
 **Objective:** Create a comprehensive business model for your API that ensures sustainable value delivery.
 
@@ -340,9 +340,9 @@ This guide provides prompts for each phase of the APIOps Cycles method. Each sec
 - [ ] Identified key partnerships and resources
 - [ ] Validated business model with stakeholders
 
-## Phase 2: API Consumer Experience
+## Continuing Phase 2 of APIOps Cycles Method: API Consumer Experience. Previous phases completed: [Phase 1]. 
 
-### 2.1 Consumer Needs Validation
+### Current focus: 2.1 Consumer Needs Validation
 
 **Objective:** Validate and refine API consumer needs through direct engagement and feedback.
 
@@ -429,9 +429,9 @@ This guide provides prompts for each phase of the APIOps Cycles method. Each sec
 - [ ] Clear understanding of developer experience needs
 - [ ] Validation of business model assumptions
 
-## Phase 3: API Platform Architecture
+## Continuing Phase 3 of APIOps Cycles Method: API Platform Architecture. Previous phases completed: [Phase 1,2]
 
-### 3.1 Platform Evaluation
+### Current focus: 3.1 Platform Evaluation
 
 **Objective:** Assess platform capabilities and identify architectural requirements for successful API deployment.
 
@@ -494,7 +494,7 @@ This guide provides prompts for each phase of the APIOps Cycles method. Each sec
 - [ ] Assessment of current platform capabilities
 - [ ] Gap analysis for required capabilities
 
-### 3.2 Capacity Planning
+### Current focus: 3.2 Capacity Planning
 
 **Objective:** Define and plan for the API's capacity requirements to ensure reliable performance.
 
@@ -575,7 +575,7 @@ This guide provides prompts for each phase of the APIOps Cycles method. Each sec
 - [ ] Cost projections for different scaling scenarios
 - [ ] Validation of capacity plan with stakeholders
 
-### 3.3 Risk Assessment
+### Current focus: 3.3 Risk Assessment
 
 **Objective:** Identify and plan mitigation strategies for potential risks to API operations.
 
@@ -665,9 +665,9 @@ This guide provides prompts for each phase of the APIOps Cycles method. Each sec
 - [ ] Cost-benefit analysis of mitigation strategies
 - [ ] Stakeholder approval of risk management approach
 
-## Phase 4: API Design
+## Continuing Phase 4 of APIOps Cycles Method: API Design. Previous phases completed: [Phase 1,2,3]
 
-### 4.1 Data Requirements
+### Current focus: 4.1 Data Requirements
 
 **Objective:** Define comprehensive data requirements that meet both technical and business needs. Make sure to meet all success criteria.
 
@@ -742,7 +742,7 @@ This guide provides prompts for each phase of the APIOps Cycles method. Each sec
 - [ ] Defined JSON Schema specification
 - [ ] Defined JSON data examples, that match JSON Schema specification
 
-### 4.2 Request/Response Design
+### Current focus: 4.2 Request/Response Design
 
 **Objective:** Design clear, consistent, and efficient API interactions. Make sure to meet all success criteria.
 
@@ -827,7 +827,7 @@ This guide provides prompts for each phase of the APIOps Cycles method. Each sec
 - [ ] Documented rate limiting and caching
 - [ ] Peer review of API design
 
-### 4.3 Asynchronous API Design
+### Current focus: 4.3 Asynchronous API Design
 
 **Objective:** Design effective event-driven API interactions for real-time data and long-running processes. Make sure to meet all success criteria.
 
@@ -904,7 +904,7 @@ This guide provides prompts for each phase of the APIOps Cycles method. Each sec
 - [ ] Documented error handling scenarios
 - [ ] Validated event processing rules
 
-### 4.4 MVP Prioritization
+### Current focus: 4.4 MVP Prioritization
 
 **Objective:** Prioritize API features for initial release while ensuring extensibility for future growth.
 
@@ -968,9 +968,9 @@ This guide provides prompts for each phase of the APIOps Cycles method. Each sec
 
 Use the prompt from the [api-audit-execution-claude-standalone.md](./api-audit-execution-claude-standalone.md) file.
 
-## Phase 6: API Publishing
+## Continuing Phase 6 of APIOps Cycles Method: API Publishing. Previous phases completed: [Phase 1,2,3,4,5]
 
-### 6.1 Publication Preparation
+### Current focus: 6.1 Publication Preparation
 
 **Objective:** Ensure successful API deployment and adoption through comprehensive documentation and support.
 
@@ -1023,9 +1023,9 @@ Use the prompt from the [api-audit-execution-claude-standalone.md](./api-audit-e
 - [ ] Support processes defined
 - [ ] Monitoring tools configured
 
-## Phase 7: API Adoption
+## Continuing Phase 7 of APIOps Cycles Method: API Adoption. Previous phases completed: [Phase 1,2,3,4,5,6]
 
-### 7.1 Adoption Strategy
+### Current focus: 7.1 Adoption Strategy
 
 **Objective:** Drive successful API adoption through effective onboarding and support.
 
